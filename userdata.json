@@ -28,5 +28,11 @@
         "key": "garmin2",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f26a9f5d106aa95a",
+        "key": "garmin3",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
