@@ -42,12 +42,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "e0c82d863ed60054",
-        "key": "garmin5",
-        "expirydate": "15-06-2029",
-        "Allowoffline": false
-    },
-    {
         "device_id": "cd139ec654ac8778",
         "key": "garmin6",
         "expirydate": "15-06-2029",
