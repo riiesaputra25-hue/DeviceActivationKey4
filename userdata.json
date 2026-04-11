@@ -64,5 +64,11 @@
         "key": "garmin8",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbfd79630e6910cf",
+        "key": "garmin9",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
