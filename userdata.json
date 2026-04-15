@@ -124,5 +124,11 @@
         "key": "garmin19",
         "expirydate": "6-07-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "caa27ae4a205948c",
+        "key": "garmin20",
+        "expirydate": "7-07-2030",
+        "Allowoffline": false
     }
 ]
