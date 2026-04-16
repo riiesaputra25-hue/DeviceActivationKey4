@@ -166,5 +166,11 @@
         "key": "garmin27",
         "expirydate": "13-07-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "73c44a22e1fe77f7",
+        "key": "garmin28",
+        "expirydate": "14-07-2030",
+        "Allowoffline": false
     }
 ]
