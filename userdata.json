@@ -292,5 +292,11 @@
         "key": "garmin48",
         "expirydate": "5-01-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ccd04ec48f651f65",
+        "key": "garmin49",
+        "expirydate": "6-01-2030",
+        "Allowoffline": false
     }
 ]
