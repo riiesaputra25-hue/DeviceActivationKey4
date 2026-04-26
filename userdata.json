@@ -400,5 +400,11 @@
         "key": "garmin66",
         "expirydate": "23-01-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "393a877e1cfccec3",
+        "key": "garmin67",
+        "expirydate": "24-01-2030",
+        "Allowoffline": false
     }
 ]
