@@ -466,5 +466,11 @@
         "key": "garmin76",
         "expirydate": "4-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "45ff884ed9cd730f",
+        "key": "garmin78",
+        "expirydate": "5-02-2030",
+        "Allowoffline": false
     }
 ]
