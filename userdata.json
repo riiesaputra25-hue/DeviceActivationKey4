@@ -502,5 +502,11 @@
         "key": "garmin83",
         "expirydate": "10-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c284689a3558f90d",
+        "key": "garmin84",
+        "expirydate": "11-02-2030",
+        "Allowoffline": false
     }
 ]
