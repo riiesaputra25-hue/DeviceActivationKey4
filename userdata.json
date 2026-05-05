@@ -598,5 +598,11 @@
         "key": "garmin99",
         "expirydate": "26-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b60dda50137f3ff",
+        "key": "garmin100",
+        "expirydate": "1-03-2030",
+        "Allowoffline": false
     }
 ]
