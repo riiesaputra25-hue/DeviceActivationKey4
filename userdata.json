@@ -610,5 +610,11 @@
         "key": "garmin101",
         "expirydate": "2-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a44fd5135cb7f17",
+        "key": "garmin102",
+        "expirydate": "3-03-2030",
+        "Allowoffline": false
     }
 ]
