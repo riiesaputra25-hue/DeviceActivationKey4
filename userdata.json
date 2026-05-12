@@ -754,5 +754,11 @@
         "key": "garmin125",
         "expirydate": "26-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "62c223631f39fe06",
+        "key": "garmin126",
+        "expirydate": "27-03-2030",
+        "Allowoffline": false
     }
 ]
