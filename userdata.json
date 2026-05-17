@@ -850,5 +850,11 @@
         "key": "garmin141",
         "expirydate": "12-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "871780d461c59f09",
+        "key": "garmin142",
+        "expirydate": "13-04-2030",
+        "Allowoffline": false
     }
 ]
