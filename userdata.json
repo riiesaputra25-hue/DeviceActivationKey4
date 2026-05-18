@@ -862,5 +862,11 @@
         "key": "garmin143",
         "expirydate": "14-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "00e819271c75fe06",
+        "key": "garmin144",
+        "expirydate": "15-04-2030",
+        "Allowoffline": false
     }
 ]
