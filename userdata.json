@@ -878,6 +878,12 @@
     {
         "device_id": "6cfcffd5e78eb500",
         "key": "garmin146",
+        "expirydate": "18-04-2030",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e11ab0b25e23016b",
+        "key": "garmin147",
         "expirydate": "17-04-2030",
         "Allowoffline": false
     }
