@@ -898,5 +898,11 @@
         "key": "garmin149",
         "expirydate": "19-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbccdbe97dc6194f",
+        "key": "garmin150",
+        "expirydate": "20-04-2030",
+        "Allowoffline": false
     }
 ]
