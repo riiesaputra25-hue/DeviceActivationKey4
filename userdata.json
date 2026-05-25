@@ -976,5 +976,11 @@
         "key": "garmin162",
         "expirydate": "2-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "544968fc07114e3a",
+        "key": "garmin163",
+        "expirydate": "3-05-2030",
+        "Allowoffline": false
     }
 ]
