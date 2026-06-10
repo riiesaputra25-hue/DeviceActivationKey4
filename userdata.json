@@ -1192,5 +1192,11 @@
         "key": "garmin198",
         "expirydate": "7-06-2030",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "f56ee3008b8e3b2d",
+        "key": "f56ee3008b8e3b2d",
+        "expirydate": "7-06-2040",
+        "Allowoffline": true
+    },
 ]
