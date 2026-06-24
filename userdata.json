@@ -1385,4 +1385,10 @@
         "expirydate": "29-01-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "073b721f34c818dd",
+        "key": "073b721f34c818dd",
+        "expirydate": "30-01-2040",
+        "Allowoffline": true
+    },
 ]
