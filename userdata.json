@@ -1535,4 +1535,10 @@
         "expirydate": "24-02-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "64cd3507a00be8d9",
+        "key": "64cd3507a00be8d9",
+        "expirydate": "25-02-2040",
+        "Allowoffline": true
+    },
 ]
