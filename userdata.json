@@ -1529,4 +1529,10 @@
         "expirydate": "23-02-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "4badff106f9bd686",
+        "key": "4badff106f9bd686",
+        "expirydate": "24-02-2040",
+        "Allowoffline": true
+    },
 ]
