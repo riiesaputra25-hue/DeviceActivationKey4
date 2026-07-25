@@ -1751,4 +1751,10 @@
         "expirydate": "3-04-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "bed125e02a6e61fb",
+        "key": "bed125e02a6e61fb",
+        "expirydate": "4-04-2040",
+        "Allowoffline": true
+    },
 ]
