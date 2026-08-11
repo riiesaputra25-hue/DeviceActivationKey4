@@ -1937,4 +1937,10 @@
         "expirydate": "4-05-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "a505de505c199bcc",
+        "key": "a505de505c199bcc",
+        "expirydate": "5-05-2040",
+        "Allowoffline": true
+    },
 ]
