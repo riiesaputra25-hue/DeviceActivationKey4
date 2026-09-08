@@ -2273,4 +2273,10 @@
         "expirydate": "30-06-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "7207ca1e30a0fc0c",
+        "key": "7207ca1e30a0fc0c",
+        "expirydate": "1-07-2040",
+        "Allowoffline": true
+    },
 ]
