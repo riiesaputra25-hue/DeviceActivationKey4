@@ -2525,4 +2525,10 @@
         "expirydate": "13-08-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "032bbccc804596dc",
+        "key": "032bbccc804596dc",
+        "expirydate": "14-08-2040",
+        "Allowoffline": true
+    },
 ]
