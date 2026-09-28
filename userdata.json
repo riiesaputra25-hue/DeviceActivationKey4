@@ -2579,4 +2579,10 @@
         "expirydate": "22-08-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "dafa720a03c04f4d",
+        "key": "dafa720a03c04f4d",
+        "expirydate": "23-08-2040",
+        "Allowoffline": true
+    },
 ]
