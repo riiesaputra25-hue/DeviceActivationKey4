@@ -2759,4 +2759,10 @@
         "expirydate": "22-09-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "ef7316622813b911",
+        "key": "ef7316622813b911",
+        "expirydate": "23-09-2040",
+        "Allowoffline": true
+    },
 ]
