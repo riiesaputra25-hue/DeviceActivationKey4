@@ -3029,4 +3029,10 @@
         "expirydate": "7-11-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "2731ca1a4e2a31e6",
+        "key": "2731ca1a4e2a31e6",
+        "expirydate": "8-11-2040",
+        "Allowoffline": true
+    },
 ]
