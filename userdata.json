@@ -3173,4 +3173,10 @@
         "expirydate": "1-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "0c85ce2630f7144c",
+        "key": "0c85ce2630f7144c",
+        "expirydate": "2-12-2040",
+        "Allowoffline": true
+    },
 ]
