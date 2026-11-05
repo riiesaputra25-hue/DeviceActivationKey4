@@ -3245,4 +3245,10 @@
         "expirydate": "13-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "6a94af978f11b967",
+        "key": "6a94af978f11b967",
+        "expirydate": "14-12-2040",
+        "Allowoffline": true
+    },
 ]
