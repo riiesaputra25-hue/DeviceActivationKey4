@@ -3281,4 +3281,10 @@
         "expirydate": "19-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "935492ec32beba90",
+        "key": "935492ec32beba90",
+        "expirydate": "20-12-2040",
+        "Allowoffline": true
+    },
 ]
