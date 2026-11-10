@@ -3299,4 +3299,10 @@
         "expirydate": "22-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "993c336cfe4e95d3",
+        "key": "993c336cfe4e95d3",
+        "expirydate": "23-12-2040",
+        "Allowoffline": true
+    },
 ]
