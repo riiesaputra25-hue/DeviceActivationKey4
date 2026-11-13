@@ -3347,4 +3347,10 @@
         "expirydate": "30-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "3086e4bfa756deef",
+        "key": "3086e4bfa756deef",
+        "expirydate": "1-1-2041",
+        "Allowoffline": true
+    },
 ]
