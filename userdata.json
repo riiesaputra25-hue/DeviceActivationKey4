@@ -3485,4 +3485,10 @@
         "expirydate": "23-1-2041",
         "Allowoffline": true
     },
+    {
+        "device_id": "23017c56773fa901",
+        "key": "23017c56773fa901",
+        "expirydate": "24-1-2041",
+        "Allowoffline": true
+    },
 ]
