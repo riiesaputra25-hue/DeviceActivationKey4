@@ -3515,4 +3515,10 @@
         "expirydate": "28-1-2041",
         "Allowoffline": true
     },
+    {
+        "device_id": "6d86b809a58939e4",
+        "key": "6d86b809a58939e4",
+        "expirydate": "29-1-2041",
+        "Allowoffline": true
+    },
 ]
